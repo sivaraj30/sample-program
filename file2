@@ -3,7 +3,7 @@ void main()
 {
   int a[2][2],b[2][2],i,j,d;
 
-  printf("enter the matrix num:\n");
+  printf("enter the matrix num:\n");              //OK
   for(i=0;i<=1;i++)
   {
     for(j=0;j<=1;j++)
